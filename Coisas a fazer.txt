@@ -1,0 +1,8 @@
+﻿- Cadastro do cliente
+- Endereços do cliente
+- Listagem dos pedidos
+- Cadastro de pedidos
+- Listagem dos produtos
+- Acompanhamento do pedido
+- Contato
+- Orçamento

@@ -1,0 +1,8 @@
+div label {
+	display: inline-block;
+	width: 5em;
+}
+
+.tipo_pessoa {
+	width: 100px;
+}
